@@ -1,0 +1,12 @@
+backbone: null
+input_dims: 25
+input_shape: 256
+loss: null
+lr: 0.001
+model: SegFormer_smp
+num_classes: 10
+precision: null
+scheduler_opt: val_loss
+val: true
+weights: null
+y_nodata: 0

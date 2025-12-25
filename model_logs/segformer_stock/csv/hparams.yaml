@@ -1,0 +1,18 @@
+model: SegFormer_smp
+input_shape: 256
+input_dims: 25
+y_nodata: -1
+lr: 0.001
+precision: null
+scheduler_opt: val_loss
+backbone: null
+weights: null
+loss: mse
+metrics:
+- name: r2
+  log: verbose
+- name: rmse
+  log: verbose
+- name: mae
+  log: verbose
+val: true
