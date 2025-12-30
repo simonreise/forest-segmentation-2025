@@ -42,9 +42,10 @@ File suffixes:
 
 ## Model checkpoints
 
-Model checkpoints are stored on [HuggingFace Hub](simonreise/forest-segmentation-2025)
+Model checkpoints are stored on [HuggingFace Hub](https://huggingface.co/simonreise/forest-segmentation-2025)
 
 ## Maps
 
 
 Yearly maps of forest parameters are stored on Zenodo (link here)
+
