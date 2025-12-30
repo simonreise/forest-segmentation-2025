@@ -47,5 +47,6 @@ Model checkpoints are stored on [HuggingFace Hub](https://huggingface.co/simonre
 ## Maps
 
 
-Yearly maps of forest parameters are stored on Zenodo (link here)
+Yearly maps of forest parameters are stored on [Zenodo](https://doi.org/10.5281/zenodo.18054578)
+
 
