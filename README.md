@@ -1,4 +1,4 @@
-# Data for "_Characterizing long-term boreal forest ecosystems dynamics in Khanty-Mansi Autonomous Okrug (West Siberia) using time series remote sensing data and deep learning methods_"
+# Data for "_Characterizing long-term boreal forest ecosystems dynamics in Khanty-Mansi Autonomous Okrug (Western Siberia) using time series remote sensing data and deep learning methods_"
 
 ## Paper
 
@@ -42,8 +42,9 @@ File suffixes:
 
 ## Model checkpoints
 
-Model checkpoints are stored on HuggingFace Hub (link here)
+Model checkpoints are stored on [HuggingFace Hub](simonreise/forest-segmentation-2025)
 
 ## Maps
+
 
 Yearly maps of forest parameters are stored on Zenodo (link here)
