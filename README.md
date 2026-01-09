@@ -2,7 +2,7 @@
 
 ## Paper
 
-Paper is published at Remote Sensing of Environment and is available at (link here)
+Paper is published at ISPRS Journal of Photogrammetry and Remote Sensing and is available at (link here)
 
 ## Jupyter notebooks
 
@@ -53,6 +53,7 @@ Model checkpoints are stored on [HuggingFace Hub](https://huggingface.co/simonre
 ## Maps
 
 Yearly maps of forest parameters are stored on [Zenodo](https://doi.org/10.5281/zenodo.18054578)
+
 
 
 
