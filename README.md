@@ -2,7 +2,7 @@
 
 ## Paper
 
-Paper is published at Forest Ecology and Management and is available at (link here)
+Paper is published at Remote Sensing of Environment and is available at (link here)
 
 ## Jupyter notebooks
 
@@ -40,13 +40,19 @@ File suffixes:
 
 `model_logs` directory contains model logging data in CSV and TensorBoard format that show how different model metrics changed while training and validating the model.
 
+## Google Earth Engine scripts
+
+[LandTrendr data download](https://code.earthengine.google.com/4c60447c34dc82beaad137a0af9059dc)
+
+[FabDEM data download](https://code.earthengine.google.com/8ce380e1cfb2396770c355e43428763d)
+
 ## Model checkpoints
 
 Model checkpoints are stored on [HuggingFace Hub](https://huggingface.co/simonreise/forest-segmentation-2025)
 
 ## Maps
 
-
 Yearly maps of forest parameters are stored on [Zenodo](https://doi.org/10.5281/zenodo.18054578)
+
 
 
