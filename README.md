@@ -1,8 +1,8 @@
-# Data for "_Characterizing long-term boreal forest ecosystems dynamics in Khanty-Mansi Autonomous Okrug (Western Siberia) using time series remote sensing data and deep learning methods_"
+# Data for "_Characterizing long-term boreal forest ecosystems dynamics in Khanty-Mansi Autonomous Okrug (West Siberia) using time series remote sensing data and deep learning methods_"
 
 ## Paper
 
-Paper is published at Remote Sensing Applications: Society and Environment and is available at (link here)
+Paper is published at Forest Ecology and Management and is available at (link here)
 
 ## Jupyter notebooks
 
@@ -17,6 +17,7 @@ The root directory of this repo contains Jupyter notebooks with Python code that
 - `7_training` - training and testing the models
 - `8_mapping` - generating maps from models predictions
 - `9_analysis` - analyzing data and creating figures and tables
+- `10_validation` - retrospective validation against archival data
 - `delta_nbr` - calculating dNBR for forestry data cleanup
 
 ## Statistics
@@ -40,21 +41,10 @@ File suffixes:
 
 `model_logs` directory contains model logging data in CSV and TensorBoard format that show how different model metrics changed while training and validating the model.
 
-## Google Earth Engine scripts
-
-[LandTrendr data download](https://code.earthengine.google.com/4c60447c34dc82beaad137a0af9059dc)
-
-[FabDEM data download](https://code.earthengine.google.com/8ce380e1cfb2396770c355e43428763d)
-
 ## Model checkpoints
 
-Model checkpoints are stored on [HuggingFace Hub](https://huggingface.co/simonreise/forest-segmentation-2025)
+Model checkpoints are stored on HuggingFace Hub (link here)
 
 ## Maps
 
-Yearly maps of forest parameters are stored on [Zenodo](https://doi.org/10.5281/zenodo.18054578)
-
-
-
-
-
+Yearly maps of forest parameters are stored on Zenodo (link here)
