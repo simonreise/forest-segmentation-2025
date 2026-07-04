@@ -2,7 +2,7 @@
 
 ## Paper
 
-Paper is published at Forest Ecology and Management and is available at (link here)
+Paper is published at Forest Ecology and Management and is available [here](https://doi.org/10.1016/j.rsase.2026.102115)
 
 ## Jupyter notebooks
 
@@ -43,8 +43,8 @@ File suffixes:
 
 ## Model checkpoints
 
-Model checkpoints are stored on HuggingFace Hub (link here)
+Model checkpoints are stored on [HuggingFace Hub](https://huggingface.co/simonreise/forest-segmentation-2025)
 
 ## Maps
 
-Yearly maps of forest parameters are stored on Zenodo (link here)
+Yearly maps of forest parameters are stored on [Zenodo](https://doi.org/10.5281/zenodo.18054578)
